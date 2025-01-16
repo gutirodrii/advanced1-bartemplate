@@ -3,6 +3,7 @@ import SectionOne from "./components/SectionOne";
 import SectionTwo from "./components/SectionTwo";
 import Header from "./components/Header";
 import Separator from "./components/Separator";
+import SectionThree from "./components/SectionThree";
 
 
 export default function Home() {
@@ -13,7 +14,7 @@ export default function Home() {
       <SectionOne/>
       <Separator />
       <SectionTwo />      
-      <Separator />
+      <SectionThree />
     </div>
   );
 }
