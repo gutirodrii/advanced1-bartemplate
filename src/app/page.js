@@ -3,6 +3,7 @@ import SectionOne from "./components/SectionOne";
 import SectionTwo from "./components/SectionTwo";
 import Header from "./components/Header";
 import Separator from "./components/Separator";
+import Footer from "./components/Footer";
 
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
       <Separator />
       <SectionTwo />      
       <Separator />
+      <Footer />
     </div>
   );
 }
