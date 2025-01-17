@@ -11,7 +11,8 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         secondary: "var(--secondary)",
-        terciary: "var(--terciary)" 
+        terciary: "var(--terciary)",
+        quaternary: "var(--quaternary)"
       },
     },
   },
